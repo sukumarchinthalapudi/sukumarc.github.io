@@ -138,7 +138,7 @@ img{
     height: 100%;
     padding: 2rem;
     background-color: var(--second-color);
-    transition: .5s;
+    transition: .1s;
   }
 }
 .nav__item{
@@ -332,7 +332,7 @@ img{
   overflow: hidden;
 }
 .work__img img{
-  transition: 2s;
+  transition: 1s;
   cursor: pointer;
 }
 .work__img img:hover{
